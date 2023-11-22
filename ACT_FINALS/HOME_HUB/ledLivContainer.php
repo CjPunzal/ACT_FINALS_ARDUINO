@@ -1,0 +1,1 @@
+<?php $livingRoomStat=''; echo $livingRoomStat; ?>
